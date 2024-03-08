@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+    margin-bottom: 30px;
+}
+img{
+    width: 10rem;
+    padding: 3rem;
+}
+.number{
+    position: absolute;
+    left: 3px;
+    top: 3;
+    background-color: darkblue;
+    border: 1px solid ;
+    border-radius: 0px 5px 0px  5px;
+    padding: 2px;
+    color: #fff;
+}
