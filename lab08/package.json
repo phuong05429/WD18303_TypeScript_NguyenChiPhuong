@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.17.0",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,35 @@
+/* Thiết kế cho các nút bấm */
+.buttons {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #4CAF50; /* Màu nền */
+    color: white; /* Màu chữ */
+    padding: 10px 20px; /* Kích thước nút */
+    border: none; /* Loại bỏ đường viền */
+    border-radius: 5px; /* Bo tròn góc */
+    cursor: pointer; /* Con trỏ khi rê chuột vào */
+    margin-right: 10px; /* Khoảng cách giữa các nút */
+}
+
+button:hover {
+    background-color: #45a049; /* Màu nền khi hover */
+}
+
+/* Thiết kế cho đồng hồ đếm ngược */
+#countdown {
+    font-size: 24px; /* Kích thước chữ */
+    font-family: Arial, sans-serif; /* Font chữ */
+    color: #333; /* Màu chữ */
+}
+
+#userForm{
+    text-align: center;
+    width: 100%;
+    margin-top: 10rem;
+}
+#usernameInput{
+    width: 15rem;
+    height: 1.8rem;
+}
